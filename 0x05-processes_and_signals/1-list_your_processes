@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This list the all the process in yout terminal
+
+top
